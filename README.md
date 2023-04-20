@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+Its a pleasure to be here, but content for this site is still work in progess !
+More comming soon ! 
 <!--
 **barPython123/barPython123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
