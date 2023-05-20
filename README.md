@@ -1,6 +1,9 @@
 ### Hi there 👋
 Its a pleasure to be here, but content for this site is still work in progess !
 More comming soon ! 
+
+[![Greg's GitHub stats](https://github-readme-stats.vercel.app/api?username=barDev0)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **barPython123/barPython123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
