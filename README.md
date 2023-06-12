@@ -1,20 +1,11 @@
 ### Hi there 👋
-Its a pleasure to be here, but content for this site is still work in progess !
-More comming soon ! 
+Its a pleasure to be here, my name is Greg (he) and im on path to becoming developer!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barDev0)](https://github.com/anuraghazra/github-readme-stats)
+## Little about me
+My current language is Typescript, but I also dabble in Rust for future proofing my backed dev career.
+I spent last 12 year working behind bar in various cocktail bars and clubs in Warsaw/ Poland.
 
-<!--
-**barPython123/barPython123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## TLDR;
+I'm currently working on GymCat -> TS/React workout logger for keeping track of exercise regiment.
+I'm still learning TypeScript but ocassionaly Im doing a little Rust
+I'll gladly join open source project to develop my skills and expend my exprience working with more sernior developers!
