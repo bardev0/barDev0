@@ -11,7 +11,7 @@ For the last 1,5 years, I expend my knowledge of JS/TS, concurrently learning ab
 As a long-time ( 14+ years ) Linux / Mac user I'm not afraid of searching for solutions to problems and enjoy doing things in a good way, not the short way. 
 
 ## Engineer motivation
-I want to create software that allows its users to grow.
+I want to create software that allows its users to grow.<br>
 Applications and solutions that are expending human interactions and deliver good emotions. 
 
 
