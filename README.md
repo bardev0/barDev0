@@ -16,9 +16,9 @@ Applications and solutions that are expending human interactions and deliver goo
 
 ## Nerdy Things
 
-Vim motions enthusiast ⌨️
-WebStorm daily driver ⚡
-Zellji > Tmux
+Vim motions enthusiast ⌨️<br>
+WebStorm daily driver ⚡<br>
+Zellji > Tmux<br>
 WezTerm > Alacritty
 
 ## TLDR;
